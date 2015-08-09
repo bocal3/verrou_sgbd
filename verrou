@@ -1,0 +1,9 @@
+LOCK TABLE MaTable WRITE;
+
+
+
+...
+
+
+
+UNLOCK TABLES;
